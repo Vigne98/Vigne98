@@ -8,18 +8,16 @@ I am a 24 years old guy studying for an English degree. I got interested into So
 <hr> </hr>
 <h1 align="center"> Skills </h1>
 <p align="center" width="100%"> <img src= "https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" alt="ks" /> </p>
-
+I personally don't like to refer as skills the knowledge on certain specific software just because of how foggy the sight may become in a constant learning environment. There's no a concrete way to mesaure the "level" of knowledge that someone has if not but it's projects. I don't believe in years of experience but in project experience or proven knowledge instead.
+Still, most people like to mesaure they knowledge in the most subjective way possible, so here's an idea of key concepts that may give you an idea of the tools or practice I used/know.
 <ul>
-  <li><b>★★★★★</b> Basic concepts of Testing        </li>
-  <li><b>★★★★★</b> Software Development Life Cycle  </li>
-  <li><b>★★★★★</b> Testing Development Life Cycle   </li>
-  <li><b>★★★★★</b> Bugs Life Cycle                  </li>
-  <li><b>★★★★★</b> Agile Methodology                </li>
-  <li><b>★★★★★</b> Scrum Framework                  </li>
-  <li><b>★★★★★</b> Test Case design Design          </li>
-  <li><b>★★★★</b>☆ JIRA                             </li>
-  <li><b>★★</b>☆☆☆ Api Rest test - Postman          </li>
-  <li><b>★★</b>☆☆☆ Automation Testing - Selenium    </li>
+  <li><b>★</b> SDLC/STLC                        </li>
+  <li><b>★</b> Agile - SCRUM                    </li>
+  <li><b>★</b> Remix                            </li>
+  <li><b>★</b> Solidity                         </li>
+  <li><b>★</b> Concepts of Testing & Test Cases </li>
+  <li><b>★</b> Bugs: Life Cycle/Reports         </li>
+  <li><b>★</b> Postman/Selenium Webdriver       </li>
 </ul>
 <h1 align="center"> Contact Info </h1>
 <p align="center" width="100%"> <img src="https://c.tenor.com/5aZ8jrEPWfQAAAAC/kobayashi.gif" alt="ksn" /> </p>
