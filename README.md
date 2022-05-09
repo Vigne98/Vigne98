@@ -16,6 +16,7 @@ Still, most people like to mesaure they knowledge in the most subjective way pos
   <li><b>★</b> SDLC/STLC                        </li>
   <li><b>★</b> Agile - SCRUM                    </li>
   <li><b>★</b> Remix                            </li>
+  <li><b>★</b> React                            </li>
   <li><b>★</b> Solidity                         </li>
   <li><b>★</b> Concepts of Testing & Test Cases </li>
   <li><b>★</b> Bugs: Life Cycle/Reports         </li>
