@@ -4,7 +4,14 @@
 
 <h1 align="center"> About Me </h1>
 <p align="center" width="100%"> <img src="https://1.bp.blogspot.com/-WOwMDrrw_Y0/YNO54vDLBDI/AAAAAAACM1c/bDsPt0kDpxAqb_qQ3p6BvbKxofFO3yeEgCPcBGAsYHg/s1920/Kobayashi-san%2BChi%2Bno%2BMaid%2BDragon%2BS2%2BShorts%2B-%2BEpisode%2B12%2B-%2BKobayashi%2BEnjoys%2BBento.gif" alt="Cat" /> </p>
-I am a 24 years old guy studying for an English degree. I got interested into Software Testing because of an open position in Game Testing which I decided to apply for, but after a long thought I realized how few my knowledge of Testing were and I decided to start reading about it and apply into a bootcamp course for software testing. Start learning about Software Development was the beggining of it all. I'm currently playing with Web3 - Smart Contract design.
+I am a 24 years old guy studying for an English degree. I got interested into Software Development because of an open position in Game Testing which I decided to apply for, but after a long thought I realized how few my knowledge of Testing were and I decided to start reading about it and apply into a bootcamp course for software testing. Basically that was the beginning of my passion for software development, I'm constantly studying new features since then.
+<hr> </hr>
+<h1 align="center"> Currently Studying </h1>
+<div align="center"> 
+<img src= "https://media.tenor.com/images/89b5f5e66d8e888be45fe631f7dc571c/tenor.gif" width="150" height="180" />
+<img src="https://pias.uy/publicpias/wp-content/uploads/2021/11/react-2.gif" width="200" height="180"/>
+</div>
+
 <hr> </hr>
 <h1 align="center"> Skills </h1>
 <p align="center" width="100%"> <img src= "https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" alt="ks" /> </p>
@@ -14,12 +21,13 @@ Still, most people like to mesaure they knowledge in the most subjective way pos
 
 <ul>
   <li><b>★</b> SDLC/STLC                        </li>
-  <li><b>★</b> Agile - SCRUM                    </li>
-  <li><b>★</b> Remix                            </li>
+  <li><b>★</b> Agile - SCRUM                    </li> 
   <li><b>★</b> React                            </li>
+  <li><b>★</b> Remix                            </li>
   <li><b>★</b> Solidity                         </li>
-  <li><b>★</b> Concepts of Testing & Test Cases </li>
-  <li><b>★</b> Bugs: Life Cycle/Reports         </li>
+  <li><b>★</b> Mocha                            </li>
+  <li><b>★</b> Concepts of Testing & Test Cases </li> 
+  <li><b>★</b> Bugs: Life Cycle/Reports         </li> 
   <li><b>★</b> Postman/Selenium Webdriver       </li>
 </ul>
 
