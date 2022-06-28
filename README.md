@@ -4,7 +4,7 @@
 
 <h1 align="center"> About Me </h1>
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/947603671091388578/991399515213025351/minino.png" /> </p>
-Hey there I'm Vigne and I am 24 years old. I got interest in development during a QA Testing bootcamp, after that I started a Smart Contract course and fell in love with React, which is now the technology I focus on<hr> </hr>
+<p align='center'> Hey there I'm Vigne and I am 24 years old. I got interest in development during a QA Testing bootcamp, after that I started a Smart Contract course and fell in love with React, which is now the technology I focus on<hr> </p></hr>
 
 <h1 align="center"> Portfolio </h1>
 <p align="center" width="100%"> <img src= "https://cdn.discordapp.com/attachments/947603671091388578/991407406712103042/gitti.png" /> </p></hr>
