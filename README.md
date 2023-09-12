@@ -30,7 +30,7 @@
 <p align='center'>For any inquire contact me on LinkedIn or Discord~ </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vigne98"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656442964~hmac=221ca789c28201b01f4aa8f3f906445d" align="center" width="40" height="40" /> </a>
+<a href="https://www.linkedin.com/in/vigne98"> <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" align="center" width="40" height="40" /> </a>
 <a href="https://discord.com/users/941659019364409374"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" align="center" width="40" height="40" /> </a>
 
 </p>
