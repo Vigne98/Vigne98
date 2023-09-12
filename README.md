@@ -4,7 +4,7 @@
 
 <h1 align="center"> About Me </h1>
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/947603671091388578/991399515213025351/minino.png" /> </p>
-<p align='center'> Hey there I'm Vigne and I am 24 years old. I got interest in development during a QA Testing bootcamp, after that I started a Smart Contract course and fell in love with React, which is now the technology I focus on<hr> </p></hr>
+<p align='center'> Hey there I'm Vigne and I am an English Linguistics student. I got interest in development during a QA Testing bootcamp, after that I started a Smart Contract course, then learned and enjoy making some projects in React. Currently getting into Data Analytics<hr> </p></hr>
 
 <h1 align="center"> Portfolio </h1>
 <p align="center" width="100%"> <img src= "https://cdn.discordapp.com/attachments/947603671091388578/991407406712103042/gitti.png" /> </p></hr>
@@ -15,7 +15,8 @@
 
 <p align='center'>These are some of the technologies I have experience or general knowledge </p>
 <p align='center'>
-  <br/>HTML/CSS                         
+  <br/>HTML/CSS
+  <br/>Tailwind CSS
   <br/>React                         
   <br/>Remix                          
   <br/>Solidity
@@ -26,7 +27,7 @@
 <h1 align="center"> Contact Info </h1>
 <p align="center" width="100%"> <img src="https://cdn.discordapp.com/attachments/947603671091388578/991402496381690036/kuittt.jpg" alt="ksn" /> </p>
 
-<p align='center'>If you are interested in working with me please contact me on LinkedIn or Discord~ </p>
+<p align='center'>For any inquire contact me on LinkedIn or Discord~ </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vigne98"> <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1656442964~hmac=221ca789c28201b01f4aa8f3f906445d" align="center" width="40" height="40" /> </a>
