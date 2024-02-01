@@ -4,25 +4,27 @@
 
 <h1 align="center"> About Me </h1>
 <p align="center"> <img src="https://cdn.discordapp.com/attachments/947603671091388578/991399515213025351/minino.png" /> </p>
-<p align='center'> Hey there I'm Vigne and I am an English Linguistics student. I got interest in development during a QA Testing bootcamp, after that I started a Smart Contract course, then learned and enjoy making some projects in React. Currently getting into Data Analytics<hr> </p></hr>
+<p align='center'> Hey there I'm Vigne and I am a Data driven passionate. I'm also persuing a BA in English Linguistics<hr> </p></hr>
 
 <h1 align="center"> Portfolio </h1>
 <p align="center" width="100%"> <img src= "https://cdn.discordapp.com/attachments/947603671091388578/991407406712103042/gitti.png" /> </p></hr>
-<p align='center'>The portfolio is currently being reworked, I will upload the link here as soon as its available  </p>
+<p align='center'><br><a href="https://drive.google.com/drive/u/1/folders/1vpni2gt1PRLzxaD6t9yvC4oUU5FyaUHJ"> PORTFOLIO </a></br> </p>
 <hr> </hr>
 <h1 align="center"> Skills </h1>
 <p align="center" width="100%"> <img src= "https://cdn.discordapp.com/attachments/947603671091388578/991399515011686450/booking.jpg" /> </p>
 
-<p align='center'>These are some of the technologies I have experience or general knowledge </p>
+<p align='center'>These are some of the Skills/Tools I have experience with </p>
 <p align='center'>
-  <br/>HTML/CSS
-  <br/>Tailwind CSS
-  <br/>React                         
-  <br/>Remix                          
-  <br/>Solidity
-  <br/>Agile - SCRUM                   
-  <br/>Software Testing & Test Cases    
-  <br/>Postman/Selenium Webdriver      
+  <br/>Excel - Powerquery, Data clear & sort
+  <br/>SQL - SQLite
+  <br/>Power BI
+  <br/>Python - Pandas
+  <br/>Tableau
+  <br/>Html/Css/Javascript
+  <br/>React
+  <br/>Jira / Trello
+  <br/>Selenium
+     
 </p><hr> </hr>
 <h1 align="center"> Contact Info </h1>
 <p align="center" width="100%"> <img src="https://cdn.discordapp.com/attachments/947603671091388578/991402496381690036/kuittt.jpg" alt="ksn" /> </p>
