@@ -20,6 +20,7 @@
 <H2 align='1center'> 📃 SQL </H2>
 <h3> 🐘 POSTGRESQL</h3>
 <h5> <a href="https://github.com/Vigne98/CelestialDB"> CELESTIAL DB </a> </h5>
+<h5> <a href="https://github.com/Vigne98/SQL_studentsDB-fictional-"> STUDENTS DB (Majors & Courses) </a></h5>
 <br/>
 <H2 align='1center'> 🤖 QA Automation - Cypress </H2>
 <h3> TBA / NDA PROTECTED </h3>
